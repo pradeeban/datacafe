@@ -156,8 +156,20 @@ This project depends on the below major projects.
 
 
 # Using Data Cafe in your research
+The bibtex to cite Data Cafe is the following:
 
-Please cite the below, if you use Data Cafe in your research.
+@misc{pradeeban_kathiravelu_2017_844630,
+  author       = {Pradeeban Kathiravelu and
+                  Ashish Sharma},
+  title        = {{A Dynamic Data Warehousing Platform for Creating
+                   and Accessing Biomedical Data Lakes}},
+  month        = aug,
+  year         = 2017,
+  doi          = {10.5281/zenodo.844630},
+  url          = {https://doi.org/10.5281/zenodo.844630}
+}
+
+Please cite the below papers, if you use Data Cafe in your research.
 
  [1] Kathiravelu, P. & Sharma, A. (2016). A Dynamic Data Warehousing Platform for Creating and Accessing
      Biomedical Data Lakes. In Second International Workshop on Data Management and Analytics for Medicine
